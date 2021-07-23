@@ -1,0 +1,4 @@
+pandas==1.3.0
+requests==2.26
+xlrd==2.0.1
+pyarrow==4.0.1
